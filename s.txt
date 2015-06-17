@@ -3,7 +3,7 @@
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_main); master.....master....
+		setContentView(R.layout.activity_main); master.....master....123123123123
 	}
 
 	@Override
